@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+idk what to write for now
+
 <!--
 **telecaster-enc/telecaster-enc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
